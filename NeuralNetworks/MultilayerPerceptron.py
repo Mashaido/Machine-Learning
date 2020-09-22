@@ -67,6 +67,8 @@ change to reduce the error) being transferred backwards through our network, to 
 so it's gonna be an iterative cycle of forward and back propagation (on multiple inputs) till the weights are assigned
 such that our network predicts correctly. then that brings our training process to the end!
 
+recapping, our goal in training a neural network is to find weights and biases which minimize our chosen cost function
+
 oh and btw neural networks are super inspired by the brain!
 
 and basically deep learning is a subset of machine learning that's super inspired by the brain's neural networks
